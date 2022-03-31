@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/jtschoonhoven/qb",
   "dependencies": {
-    "sql": "0.*",
+    "node-sql-2": "^0.80.0",
     "underscore": "^1.7.0"
   },
   "devDependencies": {
